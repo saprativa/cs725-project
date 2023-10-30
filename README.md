@@ -6,3 +6,4 @@
 * https://arxiv.org/abs/1505.05424
 * https://arxiv.org/pdf/2007.06823.pdf
 * https://www.youtube.com/watch?v=cRzNWVjnD6I
+* History of BNN: https://www.youtube.com/watch?v=FD8l2vPU5FY 
