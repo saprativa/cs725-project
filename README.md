@@ -3,8 +3,8 @@
 ## Resources
 * https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/
 * https://ieeexplore.ieee.org/document/9756596
-* https://arxiv.org/abs/1505.05424
-* https://arxiv.org/pdf/2007.06823.pdf
+* Weight Uncertainty paper: https://arxiv.org/abs/1505.05424
+* BNN Tutorial paper: https://arxiv.org/pdf/2007.06823.pdf
 * https://www.youtube.com/watch?v=cRzNWVjnD6I
 * BNN Playlist: https://www.youtube.com/watch?v=UZNl9xhtBE8&list=PLBjSxdPpAJGz-zSjO1Lpkc-0ibLTcz2o9&index=2 
 * History of BNN: https://www.youtube.com/watch?v=FD8l2vPU5FY
